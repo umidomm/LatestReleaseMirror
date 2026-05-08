@@ -1,4 +1,4 @@
 # repos.txt.example – copy to repos.txt and edit
 
-# Format: payeh/IPCleanScanner/releases/tag/v1.0
+ Format: payeh/IPCleanScanner/releases/tag/v1.0
 # Filters are case‑insensitive regular expressions (grep -E).
