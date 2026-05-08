@@ -1,5 +1,5 @@
 # See 'repos.txt.example' file
 
-# Format: payeh/IPCleanScanner
+Format: payeh/IPCleanScanner
 # Filters are case‑insensitive regular expressions (grep -E).
 
